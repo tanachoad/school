@@ -234,3 +234,38 @@
     font-size: 1.3vw;
     margin: 20px;
   }
+
+  .footer_section {
+  background-color: #d8b109;
+  padding: 20px 15px;
+  font-family: 'Poppins', sans-serif;
+
+}
+
+.footer_section p {
+  color: #fdfdfe;
+  margin: 0;
+  text-align: center;
+}
+
+.footer_section a {
+  color: #fdfdfe;
+}
+
+/* ส่วนท้าย */
+.footer_section {
+  background-color: #d8b109;
+  padding: 20px 15px;
+  font-family: 'Poppins', sans-serif;
+
+}
+
+.footer_section p {
+  color: #fdfdfe;
+  margin: 0;
+  text-align: center;
+}
+
+.footer_section a {
+  color: #fdfdfe;
+}
