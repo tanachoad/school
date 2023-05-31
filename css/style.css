@@ -115,7 +115,7 @@ a:focus {
 }
 
 .sub_page .top_container::before {
-  background-color: #fdd31d;
+  background-color: #719fee;
   background-image: none;
 }
 
@@ -126,7 +126,7 @@ a:focus {
   height: 75px;
   bottom: 20%;
   left: 6%;
-  background-color: #fdd31d;
+  background-color: #719fee;
 }
 
 
