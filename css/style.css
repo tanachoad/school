@@ -34,7 +34,7 @@ body {
   transition: all 0.3s ease 0s;
 }
 
-.hero_section .call_to-btn {}
+/* .hero_section .call_to-btn {} */
 
 .call_to-btn img {
   width: 18px;
@@ -72,10 +72,16 @@ nav.navbar.navbar-expand-lg {
   padding: 10px 0;
 }
 
+/* หัว */
 .custom_nav-container.navbar-expand-lg .navbar-nav .nav-link {
   padding: 10px 20px;
   color: #f7f6f7;
   text-align: center;
+  font-family: 'Charm', cursive;
+}
+
+.custom_nav-container.navbar-expand-lg .navbar-nav .nav-link:hover{
+  font-size: 150%;
 }
 
 
@@ -99,8 +105,6 @@ a:focus {
 .top_container {
   position: relative;
 }
-
-
 
 .top_container::before {
   content: "";
@@ -224,6 +228,7 @@ a:focus {
 .hero_detail-box p {
   margin-top: 20px;
   margin-bottom: 35px;
+  font-family: 'Pattaya', sans-serif;
 }
 
 
